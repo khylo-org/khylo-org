@@ -27,17 +27,17 @@
 <a href="https://github.com/khylo-org/khylo/releases/download/DEV-V26.11.02.02/khylo-server-docker-26.11.02.02-arm64.tar"><img alt="Download Docker (Arm)" src="https://img.shields.io/badge/Download-Docker%20(Arm)-d97732?style=flat"></a>
 </p>
 
+<p align="center"><sub>The Khylo app for your Android TV or Google TV:</sub></p>
+
 <p align="center">
-<a href="https://github.com/khylo-org/khylo/releases/download/DEV-V26.11.02.02/khylo-tv.apk"><img alt="Download Android TV (.apk)" src="https://img.shields.io/badge/Download-Android%20TV%20(.apk)-d97732?style=flat"></a>
+<a href="https://github.com/khylo-org/khylo/releases/download/DEV-V26.11.02.02/khylo-tv.apk"><img alt="Download Android TV" src="https://img.shields.io/badge/Download-Android%20TV-d97732?style=for-the-badge"></a>
 </p>
 
-<p align="center"><sub>Install guides: <a href="https://github.com/khylo-org/khylo/blob/main/Install/windows.md">Windows</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/mac.md">Mac</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/linux.md">Linux</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/proxmox.md">Proxmox</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/docker.md">Docker</a> · <a href="https://github.com/khylo-org/khylo/releases/latest">All files</a></sub></p>
+<p align="center"><sub>Install guides: <a href="https://github.com/khylo-org/khylo/blob/main/Install/windows.md">Windows</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/mac.md">Mac</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/linux.md">Linux</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/proxmox.md">Proxmox</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/docker.md">Docker</a> · <a href="https://github.com/khylo-org/khylo/blob/main/Install/android-tv.md">Android TV</a> · <a href="https://github.com/khylo-org/khylo/releases/latest">All files</a></sub></p>
 <!-- /khylo-downloads -->
 
-<p align="center">
-  <a href="https://github.com/khylo-org/khylo">Guides and what's new</a> ·
-  <a href="https://github.com/khylo-org/khylo-server">Server source</a> ·
-  <a href="https://github.com/khylo-org/khylo-web">Web app source</a>
-</p>
+<!-- khylo-downloads:nav -->
+<p align="center"><sub><b>Khylo</b> &nbsp;|&nbsp; <a href="https://github.com/khylo-org/khylo">Downloads and install guides</a> · <a href="https://github.com/khylo-org/khylo-server">Server code</a> · <a href="https://github.com/khylo-org/khylo-web">Web app code</a> · <a href="https://github.com/khylo-org/khylo-androidtv">Android TV app</a> · <a href="https://github.com/khylo-org/khylo/blob/main/CHANGELOG.md">What's new</a></sub></p>
+<!-- /khylo-downloads -->
 
 <p align="center"><sub>Free software under the GNU General Public License v2.</sub></p>
